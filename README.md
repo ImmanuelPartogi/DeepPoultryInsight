@@ -204,4 +204,3 @@ If you use this work in your research, please cite:
 
 ---
 
-For any questions or issues, please open an issue on this repository or contact [your.email@example.com](mailto:your.email@example.com).
