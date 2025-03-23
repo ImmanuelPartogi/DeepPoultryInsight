@@ -178,7 +178,7 @@ If you use this work in your research, please cite:
 
 ```
 @software{chicken_health_vit_classifier,
-  author = {Your Name},
+  author = {Immanuel Partogi Pardede},
   title = {Chicken Health Condition Classifier Using Vision Transformer},
   year = {2025},
   url = {[https://github.com/yourusername/chicken-health-vit-classifier](https://github.com/ImmanuelPartogi/DeepPoultryInsight}
