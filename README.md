@@ -137,23 +137,6 @@ For training using Google Colab's GPU:
 4. Adjust the `DATA_DIR` path to point to your dataset
 5. Run the code as provided in the notebook
 
-## Project Structure
-
-```
-chicken-health-vit-classifier/
-│
-├── train.py                  # Main training script
-├── model.py                  # Model architecture definition
-├── dataset.py                # Dataset and data loading utilities  
-├── predict.py                # Inference script for new images
-├── utils.py                  # Utility functions
-├── requirements.txt          # Required packages
-├── best_vit_chicken_model.pth # Pre-trained model weights
-├── confusion_matrix.png      # Visualization of model performance
-├── training_history.png      # Training and validation curves
-└── README.md                 # Project documentation
-```
-
 ## Technical Details
 
 ### Model Training
@@ -198,7 +181,7 @@ If you use this work in your research, please cite:
   author = {Your Name},
   title = {Chicken Health Condition Classifier Using Vision Transformer},
   year = {2025},
-  url = {https://github.com/yourusername/chicken-health-vit-classifier}
+  url = {[https://github.com/yourusername/chicken-health-vit-classifier](https://github.com/ImmanuelPartogi/DeepPoultryInsight}
 }
 ```
 
